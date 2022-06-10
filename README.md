@@ -10,7 +10,6 @@
 
 You can get all list at [BlueCode Telegram Channel](https://telegram.dog/TheBlueCode), in case something is missed. All projects are about to close to focus on other projects !
 
-
 # YouTube Vlogs/ Tutorials
 
 <p align="left"><a href="https://youtube.com/channel/UCjUK51FFLOzZ7087NaND1ng"><img src="https://img.shields.io/badge/Subscribe my%20Vlog%20Channel-red?style=for-the-badge&logo=youtube" width="200""/</a>  </p>
