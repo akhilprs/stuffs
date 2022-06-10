@@ -3,7 +3,7 @@
 # Telegram Works
 
 - [Music Player Open Source Code](https://github.com/akhilprs/TG-MusicPlayer)
-- [Akira Group Manager Bot](https://telegram.dog/AkiraGrouoBot)
+- [Akira Group Manager Bot](https://telegram.dog/AkiraGroupBot)
 - [Tag All Source Code](https://github.com/SpectraXCode/tagallbot-tg)
 - [Akira Telegraph Uploader](https://telegram.dog/AkiraTelegraphBot)
 - [SpectraXCode](https://github.com/SpectraXCode)
